@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/Action.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/AssetRequestHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/BitmapHunter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/Cache.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/Callback.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/ContactsPhotoRequestHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/ContentStreamRequestHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/DeferredRequestCreator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/Dispatcher.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/Downloader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/FetchAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/FileRequestHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/GetAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/ImageViewAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/LruCache.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/MarkableInputStream.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/MediaStoreRequestHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/NetworkRequestHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/OkHttpDownloader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/Picasso.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/PicassoDrawable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/PicassoExecutorService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/RemoteViewsAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/Request.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/RequestCreator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/RequestHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/ResourceRequestHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/Stats.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/StatsSnapshot.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/Target.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/TargetAction.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/Transformation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/UrlConnectionDownloader.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/squareup/picasso/Utils.java" charset="UTF-8" />
+  </component>
+</project>
+
